@@ -1,0 +1,13 @@
+{
+	"name": "OFXjs",
+	"description": "JavaScript OFX Client",
+	"version": "0.1",
+	"author": "Kurt Eldridge <kilofoxtrotechod@gmail.com>",
+	"repository": "git://github.com/truk/OFXjs",
+	"main": "./lib/ofx.js",
+	"devDependencies": {
+		"mocha": "*",
+		"should": "*"
+	},
+	"engines": { "node": ">= 0.6" }
+}
